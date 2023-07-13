@@ -1,6 +1,6 @@
 {
     "name": "@tristansmp/amethyst",
-    "version": "0.0.21",
+    "version": "0.0.24",
     "private": false,
     "repository": "https://github.com/tristansmp/amethyst.js",
     "main": "./index.js",

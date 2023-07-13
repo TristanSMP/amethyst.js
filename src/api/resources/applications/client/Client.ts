@@ -29,7 +29,7 @@ export class Applications {
             headers: {
                 "X-Fern-Language": "JavaScript",
                 "X-Fern-SDK-Name": "@tristansmp/amethyst",
-                "X-Fern-SDK-Version": "0.0.21",
+                "X-Fern-SDK-Version": "0.0.24",
             },
             contentType: "application/json",
             body: await serializers.ManageApplicationRequest.jsonOrThrow(request, { unrecognizedObjectKeys: "strip" }),
